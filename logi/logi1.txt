@@ -1,0 +1,31 @@
+// uruchomienie
+2023-10-25 21:45:34.844 19784-19784 MainActivity            com.example.zad1                     D  Wywołano onCreate()
+2023-10-25 21:45:35.045 19784-19784 MainActivity            com.example.zad1                     D  Wywołano onStart()
+2023-10-25 21:45:35.048 19784-19784 MainActivity            com.example.zad1                     D  Wywołano onResume()
+2023-10-25 21:45:35.087   581-1113  CoreBackPreview         system_process                       D  Window{24652b7 u0 com.example.zad1/com.example.zad1.MainActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@ad60742, mPriority=0}
+2023-10-25 21:45:35.616   581-616   ActivityTaskManager     system_process                       I  Displayed com.example.zad1/.MainActivity: +2s104ms
+// przycisk cofnij
+2023-10-25 21:45:50.888 19784-19784 MainActivity            com.example.zad1                     D  Wywołano onPause()
+2023-10-25 21:45:51.649 19784-19784 MainActivity            com.example.zad1                     D  Wywołano onStop()
+// ponowne uruchomienie
+2023-10-25 21:38:11.633   581-2065  ActivityTaskManager     system_process                       I  START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.zad1/.MainActivity bnds=[850,935][1058,1265]} from uid 10135
+2023-10-25 21:38:11.636   581-2065  ActivityTaskManager     system_process                       I  Launching r: ActivityRecord{7d78e74 u0 com.example.zad1/.MainActivity} from background: ActivityRecord{f3bb91c u0 com.google.android.apps.nexuslauncher/.NexusLauncherActivity} t17}. New task: false
+2023-10-25 21:38:11.682 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onStart()
+2023-10-25 21:38:11.683 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onResume()
+// home
+2023-10-25 21:38:26.503 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onPause()
+2023-10-25 21:38:27.421 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onStop()
+// uruchomienie z ostatnio wybieranych
+2023-10-25 21:38:49.253 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onStart()
+2023-10-25 21:38:49.254 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onResume()
+// obrócenie ekranu
+2023-10-25 21:40:11.278 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onPause()
+2023-10-25 21:40:11.283 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onStop()
+2023-10-25 21:40:11.285 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onDestory()
+2023-10-25 21:40:11.287   581-3082  CoreBackPreview         system_process                       D  Window{7653ad1 u0 com.example.zad1/com.example.zad1.MainActivity}: Setting back callback null
+2023-10-25 21:40:11.387   581-3082  InputManager-JNI        system_process                       W  Input channel object '7653ad1 com.example.zad1/com.example.zad1.MainActivity (client)' was disposed without first being removed with the input manager!
+2023-10-25 21:40:11.682 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onStart()
+2023-10-25 21:40:11.690 18607-18607 MainActivity            com.example.zad1                     D  Wywołano onResume()
+2023-10-25 21:40:11.736   581-1040  CoreBackPreview         system_process                       D  Window{ad51b0c u0 com.example.zad1/com.example.zad1.MainActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@d21666a, mPriority=0}
+2023-10-25 21:40:11.947   581-2985  WindowManager           system_process                       I  finishDrawing of relaunch: Window{ad51b0c u0 com.example.zad1/com.example.zad1.MainActivity} 712ms
+2023-10-25 21:40:12.095   581-620   WindowManager           system_process                       I  Screen frozen for +983ms due to Window{ad51b0c u0 com.example.zad1/com.example.zad1.MainActivity}

@@ -1,0 +1,13 @@
+// obrócenie ekranu
+2023-10-25 21:51:07.596 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onPause()
+2023-10-25 21:51:07.600 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onStop()
+2023-10-25 21:51:07.603 20135-20135 MainActivity            com.example.zad1                     D  Wywołana została metoda: onSaveInstanceState
+2023-10-25 21:51:07.603 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onDestory()
+2023-10-25 21:51:07.603   581-2005  CoreBackPreview         system_process                       D  Window{a10153d u0 com.example.zad1/com.example.zad1.MainActivity}: Setting back callback null
+2023-10-25 21:51:07.612   581-2005  InputManager-JNI        system_process                       W  Input channel object 'a10153d com.example.zad1/com.example.zad1.MainActivity (client)' was disposed without first being removed with the input manager!
+2023-10-25 21:51:07.656 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onCreate()
+2023-10-25 21:51:07.696 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onStart()
+2023-10-25 21:51:07.698 20135-20135 MainActivity            com.example.zad1                     D  Wywołano onResume()
+2023-10-25 21:51:07.737   581-793   CoreBackPreview         system_process                       D  Window{22b30af u0 com.example.zad1/com.example.zad1.MainActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback=android.window.IOnBackInvokedCallback$Stub$Proxy@f10efc1, mPriority=0}
+2023-10-25 21:51:07.835   581-793   WindowManager           system_process                       I  finishDrawing of relaunch: Window{22b30af u0 com.example.zad1/com.example.zad1.MainActivity} 303ms
+2023-10-25 21:51:07.863   581-620   WindowManager           system_process                       I  Screen frozen for +438ms due to Window{22b30af u0 com.example.zad1/com.example.zad1.MainActivity}
