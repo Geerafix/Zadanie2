@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne pytanie</string>
+    <string name="answered">Już odpowiedziałeś/aś na te pytanie</string>
+    <string name="button_hint">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź jest już znana</string>
+    <string name="correct">Liczba poprawnych odpowiedzi: </string>
+    <string name="incorrect">Liczba niepoprawnych odpowiedzi: </string>
+
+    <string name="q1">Java to interpretowany język programowania</string>
+    <string name="q2">Java posiada automatyczny mechanizm zarządzający pamięcią (Garbage Collector)</string>
+    <string name="q3">W Javie, za pomocą konstrukcji try-catch możemy obsługiwać wyjątki</string>
+    <string name="q4">W Javie ciągi znaków są reprezentowane przy użyciu typu danych string</string>
+    <string name="q5">Operator this w Javie wskazuje na bieżący obiekt</string>
+    <string name="q6">W Javie modyfikator "private" oznacza, że konstruktory,
+                      metody lub pola mogą być widoczne w wielu klasach</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+</resources>
