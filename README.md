@@ -1,2 +1,2 @@
-# Zadanie1
+# Zadanie2
 Quiz
